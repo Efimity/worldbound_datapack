@@ -1,0 +1,16 @@
+{
+    "condition": "minecraft:all_of",
+    "terms": [
+        {
+            "condition": "minecraft:reference",
+            "name": "worldbound:checked_worldbound"
+        },
+        {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "worldbound.is_worldbound": 0
+            }
+        }
+    ]
+}

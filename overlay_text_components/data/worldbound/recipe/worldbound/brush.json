@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": {
+        "item": "minecraft:brush"
+    },
+    "addition": {
+        "item": "minecraft:netherite_scrap"
+    },
+    "template": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+    },
+    "result": {
+        "id": "minecraft:brush",
+        "components": {
+            "minecraft:profile": "worldbound",
+            "minecraft:lore": [
+                "{\"color\":\"#865234\",\"italic\":false,\"text\":\"Worldbound\"}"
+            ]
+        }
+    }
+}

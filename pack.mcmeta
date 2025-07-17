@@ -1,0 +1,35 @@
+{
+    "pack": {
+        "description": [
+            {
+				"text": "v1.0.0",
+				"color": "dark_purple"
+			},
+            {
+                "color": "#865234",
+                "text": " Worldbound Items"
+            },
+            "\n",
+            {
+                "color": "dark_gray",
+                "text": "By Efimity"
+            }
+        ],
+        "pack_format": 81,
+        "supported_formats": {
+            "min_inclusive": 48,
+            "max_inclusive": 81
+        }
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "overlay_text_components",
+                "formats": {
+                    "min_inclusive": 48,
+                    "max_inclusive": 70
+                }
+            }
+        ]
+    }
+}

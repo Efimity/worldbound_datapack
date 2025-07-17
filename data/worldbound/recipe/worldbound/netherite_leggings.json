@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": "minecraft:netherite_leggings",
+    "addition": "minecraft:netherite_scrap",
+    "template": "minecraft:netherite_upgrade_smithing_template",
+    "result": {
+        "id": "minecraft:netherite_leggings",
+        "components": {
+            "minecraft:lore": [
+                {
+                    "text": "Worldbound",
+                    "color": "#865234",
+                    "bold": false,
+                    "italic": false,
+                    "underlined": false,
+                    "strikethrough": false,
+                    "obfuscated": false
+                }
+            ],
+            "minecraft:profile": "worldbound"
+        }
+    }
+}

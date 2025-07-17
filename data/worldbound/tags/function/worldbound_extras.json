@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "worldbound:reset_age",
+            "required": false
+        },
+        {
+            "id": "worldbound:save_from_void",
+            "required": false
+        }
+    ]
+}

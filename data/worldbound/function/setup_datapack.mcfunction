@@ -1,0 +1,1 @@
+scoreboard objectives add worldbound.is_worldbound dummy
