@@ -8,7 +8,7 @@
     {
         "function": "minecraft:set_lore",
         "lore": [
-                "{\"color\":\"#865234\",\"italic\":false,\"text\":\"Worldbound\"}"
+                {"color":"#865234","italic":false,"text":"Worldbound"}
             ],
         "mode": "append"
     }
